@@ -1,7 +1,7 @@
 # Ensure GCS buckets are not public
 # Need to check the various ways this can happen
 
-package terraform
+package stacks.c653823107ec4ffca2de67ccb62bcd87.enforce_gcs_private
 
 import input.tfplan as tfplan
 
