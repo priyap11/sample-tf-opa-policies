@@ -1,7 +1,7 @@
 # Ensure GCS buckets are not public
 # Need to check the various ways this can happen
 
-package stacks.c653823107ec4ffca2de67ccb62bcd87.sample-tf-opa-policies
+package stacks.bc38ae749e214feb88059689eb1a44a5.sample-tf-opa-policies
 
 import input.tfplan as tfplan
 
