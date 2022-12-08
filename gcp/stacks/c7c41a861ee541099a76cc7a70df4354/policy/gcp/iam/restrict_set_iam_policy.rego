@@ -1,4 +1,4 @@
-package stacks.bc38ae749e214feb88059689eb1a44a5.policy.gcp.iam
+package stacks.c7c41a861ee541099a76cc7a70df4354.policy.gcp.iam
 
 import input
 enforce[decision] {
